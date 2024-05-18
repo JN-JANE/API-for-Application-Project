@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "image": "https: //i.pinimg.com/564x/cc/2f/80/cc2f8002ca1ca32af8f0bebdb986d831.jpg",
+        "name": "Goblin"
+        
+    },
+    {
+        "id": 2,
+        "image": "https://i.pinimg.com/564x/6d/07/8a/6d078ad1e1a919f1d59515b73a5eb436.jpg",
+        "name": "18 Again"
+        
+    },
+    {
+        "id": 3,
+        "image": "https://i.pinimg.com/564x/a1/cc/18/a1cc182aa1afe054ecea09126ce0cf68.jpg",
+        "name": "Our Blues"
+    },
+    {
+        "id": 4,
+        "image": "https://i.pinimg.com/564x/08/9c/45/089c456d0063a27e5683b57f67a8c9ad.jpg",
+        "name": "Reply 1988"
+    },
+    {
+        "id": 5,
+        "image": "https://i.pinimg.com/564x/b6/11/e9/b611e9d4afa3dbb3f19c87cdd516ef40.jpg",
+        "name": "Soe Bok"
+    },
+    {
+        "id": 6,
+        "image": "https://i.pinimg.com/564x/95/f5/ab/95f5ab9aaab5b15b61165ec01500a772.jpg",
+        "name": "Home Alone"
+    },
+    {
+        "id": 7,
+        "image": "https://prod-images.viu.com/385054803/405365971c5e40e278fd1da049b154d06a613ff1",
+        "name": "6/45 Lucky Lotto"
+    },
+    {
+        "id": 8,
+       "image": "https://i.pinimg.com/564x/3b/d1/37/3bd137ffac6d95f5772751d5b1711c4e.jpg",
+       "name": "20th Century Girl"
+    },
+    {
+        "id": 9,
+        "image": "https://i.pinimg.com/736x/74/8a/07/748a0768276b5d8b4df9f817f20f3156.jpg",
+        "name": "A Shop For Killer"
+    },
+    {
+        "id": 10,
+        "image": "https://i.pinimg.com/564x/b4/44/69/b44469ee5db847c181c7e0e36dd4102a.jpg",
+        "name": "The Good Bad Mother"
+    },
+    {
+        "id": 11,
+        "image": "https://i.pinimg.com/564x/31/21/53/3121534a54680876fbc01b9c16240fd1.jpg",
+        "name": "Harry Potter"
+    },
+    {
+        "id": 12,
+        "image": "https://i.pinimg.com/564x/a8/ea/5b/a8ea5bc912d770ab0a4fd9bd912d2261.jpg",
+        "name": "Encanto"
+    },
+    {
+       "id": 10,
+    "image": "https://i.pinimg.com/564x/e8/1a/1d/e81a1d063cf725bfe6c629cee742423d.jpg",
+    "name": "Wish Dragon"
+    },
+    {
+        "id": 14,
+        "image": "https://i.pinimg.com/564x/64/47/d3/6447d3f1f94899cfdc8503cad9407df8.jpg",
+        "name": "Wreck it Ralph"
+    },
+    {
+        "id": 15,
+        "image": "https://i.pinimg.com/564x/7a/6d/c4/7a6dc4222a7bd3037d9f7146314e3bc7.jpg",
+        "name": "Coco"
+    },
+    {
+        "id": 16,
+       "image": "https://i.pinimg.com/564x/df/5d/e6/df5de68dc22cb15d282166fc4a43a98a.jpg",
+    "name": "The Good Dinosaur"
+    },
+    {
+        "id": 17,
+       "image": "https://i.pinimg.com/564x/35/e9/3f/35e93f56a2873acec5c1a6c5171a39f6.jpg",
+    "name": "Up"
+    },
+    {
+        "id": 18,
+       "image": "https://i.pinimg.com/564x/cc/43/3f/cc433ff308a2ca0db9f9ae127620ce14.jpg",
+    "name": "Happiness"
+    },
+    {
+        "id": 19,
+        "image": "https://i.pinimg.com/236x/41/a2/c0/41a2c05cea28377717bd36cfd1013dae.jpg",
+        "name": "Mouse"
+    },
+    {
+        "id": 20,
+        "image": "https://i.pinimg.com/564x/a9/9b/86/a99b866eda83ea6617e9aeffac602475.jpg",
+        "name": "Avatar"
+    }
+]
